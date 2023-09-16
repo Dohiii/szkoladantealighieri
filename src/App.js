@@ -225,7 +225,7 @@ function App() {
 
             <>
               <div className="logo">
-                <a href="">
+                <a href="https://scdantealighieri.com.pl/">
                   <img src="/szkoladantealighieri_logo.png" alt="" ></img>
 
                 </a>
